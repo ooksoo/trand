@@ -1,3 +1,4 @@
+# force refresh workflow
 name: Get Hot News
 
 on:
