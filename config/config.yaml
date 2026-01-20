@@ -481,8 +481,9 @@ advanced:
   batch_send_interval: 3              # 批次发送间隔（秒）
   feishu_message_separator: "━━━━━━━━━━━━━━━━━━━"
 focus_words:
-  - 美国留学
-  - 国际学生
-  - AI 教育
-  - 签证政策
+- community college
+  - U.S. community college
+  - community college enrollment
+  - community college tuition
+  
 
